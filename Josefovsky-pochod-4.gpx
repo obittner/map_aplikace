@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Cykloserver.Cz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata><name>Josefovský pochod 4</name></metadata>
+	<trk>
+		<trkseg>
+			<trkpt lat="49.78566987" lon="17.06545830">
+			</trkpt>
+			<trkpt lat="49.78755399" lon="17.06241131">
+			</trkpt>
+			<trkpt lat="49.78877309" lon="17.05962181">
+			</trkpt>
+			<trkpt lat="49.78855144" lon="17.05730438">
+			</trkpt>
+			<trkpt lat="49.78791418" lon="17.05507278">
+			</trkpt>
+			<trkpt lat="49.78719380" lon="17.05399990">
+			</trkpt>
+			<trkpt lat="49.78672277" lon="17.05219746">
+			</trkpt>
+			<trkpt lat="49.78555903" lon="17.05086708">
+			</trkpt>
+			<trkpt lat="49.78536508" lon="17.05026627">
+			</trkpt>
+			<trkpt lat="49.78289897" lon="17.05515862">
+			</trkpt>
+			<trkpt lat="49.78098695" lon="17.05996513">
+			</trkpt>
+			<trkpt lat="49.77993392" lon="17.06086636">
+			</trkpt>
+			<trkpt lat="49.77896401" lon="17.07129478">
+			</trkpt>
+			<trkpt lat="49.78104237" lon="17.07168102">
+			</trkpt>
+			<trkpt lat="49.78337003" lon="17.06528664">
+			</trkpt>
+			<trkpt lat="49.78456153" lon="17.06614494">
+			</trkpt>
+			<trkpt lat="49.78547591" lon="17.06532955">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
