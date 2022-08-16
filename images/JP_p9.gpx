@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Cykloserver.Cz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata><name>Josefovský pochod 7km terén - 2020</name></metadata>
+	<trk>
+		<trkseg>
+			<trkpt lat="49.78536508" lon="17.06464291">
+			</trkpt>
+			<trkpt lat="49.78647340" lon="17.06438541">
+			</trkpt>
+			<trkpt lat="49.78663965" lon="17.06387043">
+			</trkpt>
+			<trkpt lat="49.78774794" lon="17.06206799">
+			</trkpt>
+			<trkpt lat="49.78902245" lon="17.05906391">
+			</trkpt>
+			<trkpt lat="49.78993675" lon="17.05567360">
+			</trkpt>
+			<trkpt lat="49.79617015" lon="17.06116676">
+			</trkpt>
+			<trkpt lat="49.80010371" lon="17.05026627">
+			</trkpt>
+			<trkpt lat="49.79918960" lon="17.04897881">
+			</trkpt>
+			<trkpt lat="49.79783226" lon="17.04558849">
+			</trkpt>
+			<trkpt lat="49.79855248" lon="17.04339981">
+			</trkpt>
+			<trkpt lat="49.79999291" lon="17.04284191">
+			</trkpt>
+			<trkpt lat="49.80270744" lon="17.04232693">
+			</trkpt>
+			<trkpt lat="49.80453550" lon="17.04013824">
+			</trkpt>
+			<trkpt lat="49.80666816" lon="17.03885078">
+			</trkpt>
+			<trkpt lat="49.80506175" lon="17.03571796">
+			</trkpt>
+			<trkpt lat="49.80459090" lon="17.03361511">
+			</trkpt>
+			<trkpt lat="49.80303982" lon="17.03584671">
+			</trkpt>
+			<trkpt lat="49.80209807" lon="17.03176975">
+			</trkpt>
+			<trkpt lat="49.80021451" lon="17.02876568">
+			</trkpt>
+			<trkpt lat="49.79985441" lon="17.02730656">
+			</trkpt>
+			<trkpt lat="49.79459110" lon="17.03773499">
+			</trkpt>
+			<trkpt lat="49.79107267" lon="17.04588890">
+			</trkpt>
+			<trkpt lat="49.79004757" lon="17.04893589">
+			</trkpt>
+			<trkpt lat="49.78996445" lon="17.05103874">
+			</trkpt>
+			<trkpt lat="49.78796960" lon="17.05357075">
+			</trkpt>
+			<trkpt lat="49.78777565" lon="17.05507278">
+			</trkpt>
+			<trkpt lat="49.78827437" lon="17.05721855">
+			</trkpt>
+			<trkpt lat="49.78544820" lon="17.06412792">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

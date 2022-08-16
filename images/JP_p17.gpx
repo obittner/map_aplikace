@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Cykloserver.Cz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata><name>Josefovský pochod 2020 - 16km</name></metadata>
+	<trk>
+		<trkseg>
+			<trkpt lat="49.78533737" lon="17.06442833">
+			</trkpt>
+			<trkpt lat="49.78639028" lon="17.06404209">
+			</trkpt>
+			<trkpt lat="49.78752628" lon="17.06258297">
+			</trkpt>
+			<trkpt lat="49.78844061" lon="17.06039429">
+			</trkpt>
+			<trkpt lat="49.78929951" lon="17.05717564">
+			</trkpt>
+			<trkpt lat="49.79021381" lon="17.05584526">
+			</trkpt>
+			<trkpt lat="49.79170989" lon="17.05666065">
+			</trkpt>
+			<trkpt lat="49.79733363" lon="17.06249714">
+			</trkpt>
+			<trkpt lat="49.79960511" lon="17.06412792">
+			</trkpt>
+			<trkpt lat="49.80121169" lon="17.06193924">
+			</trkpt>
+			<trkpt lat="49.80284593" lon="17.06052303">
+			</trkpt>
+			<trkpt lat="49.80348299" lon="17.05906391">
+			</trkpt>
+			<trkpt lat="49.80431392" lon="17.05764771">
+			</trkpt>
+			<trkpt lat="49.80542181" lon="17.05936432">
+			</trkpt>
+			<trkpt lat="49.80583726" lon="17.06035137">
+			</trkpt>
+			<trkpt lat="49.80700051" lon="17.05756187">
+			</trkpt>
+			<trkpt lat="49.80846838" lon="17.05966473">
+			</trkpt>
+			<trkpt lat="49.80988081" lon="17.05880642">
+			</trkpt>
+			<trkpt lat="49.81256709" lon="17.05850601">
+			</trkpt>
+			<trkpt lat="49.81356403" lon="17.05739021">
+			</trkpt>
+			<trkpt lat="49.81564090" lon="17.05786228">
+			</trkpt>
+			<trkpt lat="49.81625010" lon="17.04812050">
+			</trkpt>
+			<trkpt lat="49.81757924" lon="17.04932213">
+			</trkpt>
+			<trkpt lat="49.81868683" lon="17.05022335">
+			</trkpt>
+			<trkpt lat="49.82109574" lon="17.05198288">
+			</trkpt>
+			<trkpt lat="49.82212018" lon="17.05022335">
+			</trkpt>
+			<trkpt lat="49.82475041" lon="17.05121040">
+			</trkpt>
+			<trkpt lat="49.82505496" lon="17.05202579">
+			</trkpt>
+			<trkpt lat="49.82624543" lon="17.05327034">
+			</trkpt>
+			<trkpt lat="49.82862628" lon="17.05399990">
+			</trkpt>
+			<trkpt lat="49.83009349" lon="17.05245495">
+			</trkpt>
+			<trkpt lat="49.82962288" lon="17.05116749">
+			</trkpt>
+			<trkpt lat="49.83028727" lon="17.05005169">
+			</trkpt>
+			<trkpt lat="49.83031496" lon="17.04910755">
+			</trkpt>
+			<trkpt lat="49.82953983" lon="17.04854965">
+			</trkpt>
+			<trkpt lat="49.82981666" lon="17.04623222">
+			</trkpt>
+			<trkpt lat="49.83059178" lon="17.04258442">
+			</trkpt>
+			<trkpt lat="49.82981666" lon="17.04099655">
+			</trkpt>
+			<trkpt lat="49.82834944" lon="17.04069614">
+			</trkpt>
+			<trkpt lat="49.82693755" lon="17.03885078">
+			</trkpt>
+			<trkpt lat="49.82574710" lon="17.03756332">
+			</trkpt>
+			<trkpt lat="49.82416901" lon="17.03691959">
+			</trkpt>
+			<trkpt lat="49.82455661" lon="17.03528881">
+			</trkpt>
+			<trkpt lat="49.82439050" lon="17.03340054">
+			</trkpt>
+			<trkpt lat="49.82200943" lon="17.03215599">
+			</trkpt>
+			<trkpt lat="49.82156643" lon="17.03430176">
+			</trkpt>
+			<trkpt lat="49.81990514" lon="17.03885078">
+			</trkpt>
+			<trkpt lat="49.81957288" lon="17.04069614">
+			</trkpt>
+			<trkpt lat="49.81691468" lon="17.04670429">
+			</trkpt>
+			<trkpt lat="49.81613934" lon="17.04777718">
+			</trkpt>
+			<trkpt lat="49.81431171" lon="17.04687595">
+			</trkpt>
+			<trkpt lat="49.81123782" lon="17.04833508">
+			</trkpt>
+			<trkpt lat="49.80896689" lon="17.04365730">
+			</trkpt>
+			<trkpt lat="49.80669585" lon="17.03902245">
+			</trkpt>
+			<trkpt lat="49.80500636" lon="17.03610420">
+			</trkpt>
+			<trkpt lat="49.80448011" lon="17.03352928">
+			</trkpt>
+			<trkpt lat="49.80279053" lon="17.03580379">
+			</trkpt>
+			<trkpt lat="49.80218116" lon="17.03207016">
+			</trkpt>
+			<trkpt lat="49.80195957" lon="17.03116894">
+			</trkpt>
+			<trkpt lat="49.80024221" lon="17.02880859">
+			</trkpt>
+			<trkpt lat="49.79979901" lon="17.02623367">
+			</trkpt>
+			<trkpt lat="49.79672419" lon="17.03198433">
+			</trkpt>
+			<trkpt lat="49.79475732" lon="17.03777790">
+			</trkpt>
+			<trkpt lat="49.79331674" lon="17.04112530">
+			</trkpt>
+			<trkpt lat="49.79143284" lon="17.04533100">
+			</trkpt>
+			<trkpt lat="49.79046316" lon="17.04739094">
+			</trkpt>
+			<trkpt lat="49.79004757" lon="17.05116749">
+			</trkpt>
+			<trkpt lat="49.78808042" lon="17.05357075">
+			</trkpt>
+			<trkpt lat="49.78785877" lon="17.05498695">
+			</trkpt>
+			<trkpt lat="49.78824667" lon="17.05678940">
+			</trkpt>
+			<trkpt lat="49.78791418" lon="17.05837727">
+			</trkpt>
+			<trkpt lat="49.78722150" lon="17.06056595">
+			</trkpt>
+			<trkpt lat="49.78544820" lon="17.06399918">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
